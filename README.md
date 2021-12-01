@@ -1,4 +1,4 @@
-<img src="https://github.com/Aye-Garcia/Aye_Garcia/blob/main/Hi%20there!%20i'm%20ayelen.png?raw=true" width="500" height="200" align="center">
+<img src="https://github.com/Aye-Garcia/Aye_Garcia/blob/main/Hi%20there!%20i'm%20ayelen.png?raw=true" width="800" height="400" align="center">
 <br>
 
 
