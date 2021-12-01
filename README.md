@@ -12,7 +12,8 @@
 
 ---
 
-<img src="https://github.com/Aye-Garcia/Aye_Garcia/blob/main/ctd.png?raw=true" width="55" align="left"><h3 align="center">Currently studying Certified Tech Developer</h3><br>
+<img src="https://github.com/Aye-Garcia/Aye_Garcia/blob/main/ctd.png?raw=true" width="55" align="left"> <h4 align="left">
+  Currently studying</h4><h3>Certified Tech Developer</h3><h5 align="right">at [DigitalHouse](https://www.digitalhouse.com/)</h5>
 
 
 ---
