@@ -7,7 +7,7 @@
 
 <img src="https://cdn-icons-png.flaticon.com/512/3749/3749872.png" width="50" height="50" align="center"> <strong> ▫ Passionate about design ▫</strong>
 
-<img src="https://cdn-icons.flaticon.com/png/512/3321/premium/3321726.png?token=exp=1653058914~hmac=544e16a281de232f2aafd1741a65abcf" width="50" height="50" align="center"> <strong> ▫ Love learning new technologies ▫</strong>
+<img src="https://cdn-icons.flaticon.com/png/512/3206/premium/3206042.png?token=exp=1654628102~hmac=7a4f7e78f34ff279f34abe849af10b7d" width="50" height="50" align="center"> <strong> ▫ Love learning new technologies ▫</strong>
 
 
 ---
