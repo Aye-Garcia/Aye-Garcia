@@ -9,18 +9,18 @@
 
 <img src="https://user-images.githubusercontent.com/86816230/176542494-564ed981-aece-4998-a671-3c266c1a1c8d.png" width="30"  align="center"> <strong> ▫ Love learning new technologies ▫</strong>
 
-
 ---
 
 <h4>Currently studying</h4>
   
 <img src="https://github.com/Aye-Garcia/Aye_Garcia/blob/main/ctd.png?raw=true" width="55" align="left" margin-top="15"> 
-<h3>Certified Tech Developer</h3><h5 align="right">at [DigitalHouse](https://www.digitalhouse.com/)</h5>
-
+<h3>Certified Tech Developer</h3>
+<h5 align="right">at <img src="https://user-images.githubusercontent.com/86816230/176550310-49111fe4-760d-4ba5-aedf-abdaa52a22ad.png" width="150"></h5>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/86816230/176542922-2ad93e92-be4f-47f0-baaf-6c24d9b58321.png" width="50" align="center"> ▫ [Linkedin](https://www.linkedin.com/in/ayelen-garc%C3%ADa-170500219/)
+<img src="https://user-images.githubusercontent.com/86816230/176542922-2ad93e92-be4f-47f0-baaf-6c24d9b58321.png" width="50" align="center"> ▫ [Linkedin](https://www.linkedin.com/in/ayelen-garcia/)
+
 
 
 
